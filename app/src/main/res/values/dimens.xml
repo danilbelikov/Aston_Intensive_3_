@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ed_height">48dp</dimen>
+    <dimen name="imView_margin">64dp</dimen>
+    <dimen name="imView_height">300dp</dimen>
+    <dimen name="imView_width">300dp</dimen>
+</resources>

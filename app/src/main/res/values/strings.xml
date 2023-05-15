@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aston3</string>
+    <string name="Australia">Австрия</string>
+    <string name="poland">Польша</string>
+    <string name="italy_flag">Италия</string>
+    <string name="columbia">Колумбия</string>
+    <string name="madagascar">Мадагаскар</string>
+    <string name="thai">Тайланд</string>
+    <string name="denmark">Дания</string>
+    <string name="switc">Швейцария</string>
+    <string name="link">Введите ссылку</string>
+    <string name="find">найти</string>
+    <string name="_2">2 задание</string>
+    <string name="error_download">Ошибка загрузки</string>
+    <string name="glide">Загрузка по Glide</string>
+    <string name="coil">Загрузка по Coil</string>
+    <string name="picasso">Загрузка по Picasso</string>
+    <string name="android">Загрузка через Android</string>
+</resources>
